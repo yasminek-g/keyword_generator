@@ -13817,7 +13817,1992 @@
             "title": "Threshold for a Random Graph to Contain a Triangle"
         }
     ],
-    "Computer Science": [],
+    "Computer Science": [
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "1: Introduction and Goals; Data Types, Operators, and Variables"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "10: Divide and Conquer Methods, Merge Sort, Exceptions"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "12: Debugging, Knapsack Problem, Introduction to Dynamic Programming"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "13: Dynamic Programming: Overlapping Subproblems, Optimal Substructure"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "15: Abstract Data Types, Classes and Methods"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "2: Branching, Conditionals, and Iteration"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "20: Monte Carlo Simulations, Estimating pi"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "22: Normal, Uniform, and Exponential Distributions"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "23: Stock Market Simulation"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "24: Course Overview; What Do Computer Scientists Do?"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "4: Abstraction through Functions; Introduction to Recursion"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming",
+            "title": "5: Floating Point Numbers, Successive Refinement, Finding Roots"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 1: Introduction, Threat Models"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 10: Symbolic Execution"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 12: Network Security"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 13: Network Protocols"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 14: SSL and HTTPS"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 17: User Authentication"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 19: Anonymous Communication"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 2: Control Hijacking Attacks"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 20: Mobile Phone Security"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 3: Buffer Overflow Exploits and Defenses"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 6: Capabilities"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 8: Web Security Model"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 15: Medical Software"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 11: Ur/Web"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 16: Side-Channel Attacks"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 18: Private Browsing"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 21: Data Tracking"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 22: Guest Lecture by MIT IS&T"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 4: Privilege Separation"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 7: Sandboxing Native Code"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 9: Securing Web Applications"
+        },
+        {
+            "resource_course_title": "Computer Systems Security",
+            "title": "Lecture 23: Security Economics"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 1: Overview: Information and Entropy"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 10: Linear Time-Invariant (LTI) Systems"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 11: LTI Channel and Intersymbol Interference"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 12: Filters and Composition"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 13: Frequency Response of LTI Systems"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 14: Spectral Representation of Signals"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 15: Modulation/Demodulation"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 16: More on Modulation/Demodulation"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 17: Packet Switching"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 18: MAC Protocols"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 19: Network Routing (without failures)"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 2: Compression: Huffman and LZW"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 23: A Brief History of the Internet"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 24: History of the Internet cont'd, Course Summary"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 3: Errors, Channel Codes"
+        },
+        {
+            "resource_course_title": "Introduction to EECS II: Digital Communication Systems",
+            "title": "Lecture 6: Convolutional Codes"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 1: What is Computation?"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 10: Understanding Program Efficiency, Part 1"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 12: Searching and Sorting"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 2: Branching and Iteration"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 4: Decomposition, Abstraction, and Functions"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 6: Recursion and Dictionaries"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 9: Python Classes and Inheritance"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 12: Project 3 Presentations; Project 4 Topics by Guest Pablo Suarez (Red Cross/Red Crescent Climate Center); Project 4 Brainstorming"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 15: Freedoms of Play by Scot Osterweil (MIT Game Lab); Project 4 Playtesting; Project 4 Status Report"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 18: Fiction and Narrative in Video Games"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 19: Working with Sound Designers by Richard Ludlow and Andy Forsberg (Hexany Audio)"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 20: Writing in Games by Heather Albano and Laura Baldwin"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 22: Project 4 Check-in Presentations; Scope"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 23: Project 4 Feedback; Team Discussions"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 24: Running a Game Studio (Guest Lecture by Michael Carriere and Jenna Hoffstein)"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 25: Getting Players to Play Your Game by Sean Baptiste (Fire Hose Games)"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 26: Final Presentation Rehearsal"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 27: Final Presentations"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 3: Revision Control; Game Engines; Vision Statement"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 4: Project 2 Intro; Project 2 Elevator Pitches; Digital Prototypes; Project 2 Team Choice"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 7: Quality Assurance; Playtesting by Genevieve Conley (Riot Games); Focus Testing Results"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 8: Project 2 Presentations; Project 3; Digital Prototype with User Interference"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 9: Guest Lecture – Hidetaka “SWERY” Suehiro (Access Games)"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 1: Introduction; Guest Pablo Suarez (Red Cross/Red Crescent Climate Center); Game Engines; Meaningful Decisions in Games"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 10: Project 3 Check-In; UI and Usability"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 11: Game Development and Best Practices by Tim Cowan (EA Games)"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 13: Project 4 Planning and Team Formation; Serious Games"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 14: Aesthetics"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 16: Team Dynamics"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 17: Working with Artists by Luigi Guatieri"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 2: Project 1; Brainstorming and Low-Fidelity Prototyping"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 5: Agile Software Development"
+        },
+        {
+            "resource_course_title": "Creating Video Games",
+            "title": "Session 6: Agile Project Management"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 1: Introduction"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 10: Financial System Challenges and Opportunities"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 11: Blockchain Economics"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 12: Assessing Use Cases"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 13: Payments, Part 1"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 14: Payments, Part 2"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 15: Central Banks & Commercial Banking, Part 1"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 16: Central Banks & Commercial Banking, Part 2"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 17: Secondary Markets and Crypto-Exchanges"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 19: Primary Markets, ICOs, & Venture Capital, Part 1"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 2: Money, Ledgers, and Bitcoin"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 20: Primary Markets, ICOs, & Venture Capital, Part 2"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 21: Post Trade Clearing, Settlement, & Processing"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 22: Trade Finance & Supply Chain"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 23: Digital ID"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 24: Conclusion"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 15: Alignment, PatMax, Distance Field, Filtering and Sub-Sampling (US 7,065,262)"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 16: Fast Convolution, Low Pass Filter Approximations, Integral Images (US 6,457,032)"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 17: Photogrammetry, Orientation, Axes of Inertia, Symmetry, Orientation"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 18: Rotation and How to Represent It, Unit Quaternions, the Space of Rotations"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 19: Absolute Orientation in Closed Form, Outliers and Robustness, RANSAC"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 20: Space of Rotations, Regular Tessellations, Critical Surfaces, Binocular Stereo"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 21: Relative Orientation, Binocular Stereo, Structure, Quadrics, Calibration, Reprojection"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 22: Exterior Orientation, Recovering Position & Orientation, Bundle Adjustment, Object Shape"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 23: Gaussian Image, Solids of Revolution, Direction Histograms, Regular Polyhedra"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 7: Gradient Space, Reflectance Map, Image Irradiance Equation, Gnomonic Projection"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 8: Shading, Special Cases, Lunar Surface, Scanning Electron Microscope, Green's Theorem"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 11: Edge Detection, Subpixel Position, CORDIC, Line Detection (US 6,408,109)"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 3: Time to Contact, Focus of Expansion, Direct Motion Vision Methods, Noise Gain"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 4: Fixed Optical Flow, Optical Mouse, Constant Brightness Assumption, Closed Form Solution"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 5: TCC and FOR MontiVision Demos, Vanishing Point, Use of VPs in Camera Calibration"
+        },
+        {
+            "resource_course_title": "Machine Vision",
+            "title": "Lecture 6: Photometric Stereo, Noise Gain, Error Amplification, Eigenvalues and Eigenvectors Review"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 3: Blockchain Basics & Cryptography"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 4: Blockchain Basics and Consensus"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 5: Blockchain Basics and Transactions, UTXO, and Script Code"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 6: Smart Contracts and DApps"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 7: Technical Challenges"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 8: Public Policy"
+        },
+        {
+            "resource_course_title": "Blockchain and Money",
+            "title": "Session 9: Permissioned Systems"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 11: Understanding Program Efficiency, Part 2"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 5: Tuples, Lists, Aliasing, Mutability, and Cloning"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 7: Testing, Debugging, Exceptions, and Assertions"
+        },
+        {
+            "resource_course_title": "Introduction to Computer Science and Programming in Python",
+            "title": "Lecture 8: Object Oriented Programming"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 10: Depth-First Search"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 13: Dijkstra"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 14: APSP and Johnson"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 15: Dynamic Programming, Part 1: SRTBOT, Fib, DAGs, Bowling"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 16: Dynamic Programming, Part 2: LCS, LIS, Coins"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 18: Dynamic Programming, Part 4: Rods, Subset Sum, Pseudopolynomial"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 19: Complexity"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 2: Data Structures and Dynamic Arrays"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 20: Course Review"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 3: Sets and Sorting"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 7: Binary Trees, Part 2: AVL"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Problem Session 1"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Problem Session 2"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Problem Session 5"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Quiz 1 Review"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 1: Algorithms and Computation"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 11: Weighted Shortest Paths"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 12: Bellman-Ford"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 17: Dynamic Programming, Part 3: APSP, Parens, Piano"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 21: Algorithms—Next Steps"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 4: Hashing"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 5: Linear Sorting"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 6: Binary Trees, Part 1"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 8: Binary Heaps"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 9: Breadth-First Search"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Problem Session 3"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Problem Session 4"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Quiz 2 Review"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Quiz 3 Review"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 1: Introduction and Matrix Multiplication"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 10: Measurement and Timing"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 11: Storage Allocation"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 12: Parallel Storage Allocation"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 13: The Cilk Runtime System"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 15: Cache-Oblivious Algorithms"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 19: Leiserchess Codewalk"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 20: Speculative Parallelism & Leiserchess"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 21: Tuning a TSP Algorithm"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 23: High Performance in Dynamic Languages"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 3: Bit Hacks"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 4: Assembly Language & Computer Architecture"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 6: Multicore Programming"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 7: Races and Parallelism"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 8: Analysis of Multithreaded Algorithms"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 9: What Compilers Can and Cannot Do"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 14: Caching and Cache-Efficient Algorithms"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 16: Nondeterministic Parallel Programming"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 17: Synchronization Without Locks"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 18: Domain Specific Languages and Autotuning"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 2: Bentley Rules for Optimizing Work"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 22: Graph Optimization"
+        },
+        {
+            "resource_course_title": "Performance Engineering of Software Systems",
+            "title": "Lecture 5: C to Assembly"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 1: Introduction to CS and Programming Using Python"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 11: Aliasing and Cloning"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 18: More Python Class Methods"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 25: Plotting"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 26: List Access, Hashing, Simulations, and Wrap-Up"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 4: Loops over Strings, Guess-and-Check, and Binary"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 8: Functions as Objects"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 12: List Comprehension, Functions as Objects, Testing, and Debugging (FIXED)"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 13: Exceptions and Assertions"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 14: Dictionaries"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 15: Recursion"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 16: Recursion on Non-numerics"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 17: Python Classes"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 19: Inheritance"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 20: Fitness Tracker Object-Oriented Programming Example"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 21: Timing Programs and Counting Operations"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 22: Big Oh and Theta"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 23: Complexity Classes Examples"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 24: Sorting Algorithms"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 3: Iteration"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 5: Floats and Approximation Methods"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 3: Divide & Conquer: FFT"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 6: Randomization: Matrix Multiply, Quicksort"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 7: Randomization: Skip Lists"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 1: Introduction and Optimization Problems"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 10: Understanding Experimental Data (cont.)"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 11: Introduction to Machine Learning"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 12: Clustering"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 13: Classification"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 14: Classification and Statistical Sins"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 15: Statistical Sins and Wrap Up"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 2: Optimization Problems"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 3: Graph-theoretic Models"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 4: Stochastic Thinking"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 5: Random Walks"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 6: Monte Carlo Simulation"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 7: Confidence Intervals"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 8: Sampling and Standard Error"
+        },
+        {
+            "resource_course_title": "Introduction to Computational Thinking and Data Science",
+            "title": "Lecture 9: Understanding Experimental Data"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 7: Decomposition, Abstraction, and Functions"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 9: Lambda Functions, Tuples, and Lists"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 10: Lists and Mutability (FIXED)"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 6: Bisection Search (FIXED)"
+        },
+        {
+            "resource_course_title": "Introduction to CS and Programming using Python",
+            "title": "Lecture 2: Strings, Input/Output, and Branching"
+        },
+        {
+            "resource_course_title": "Advanced Data Structures",
+            "title": "Session 1: Persistent Data Structures"
+        },
+        {
+            "resource_course_title": "Advanced Data Structures",
+            "title": "Session 13: Integer Lower Bounds"
+        },
+        {
+            "resource_course_title": "Advanced Data Structures",
+            "title": "Session 14: Sorting in Linear Time"
+        },
+        {
+            "resource_course_title": "Advanced Data Structures",
+            "title": "Session 18: Succinct Structures II"
+        },
+        {
+            "resource_course_title": "Advanced Data Structures",
+            "title": "Session 19: Dynamic Graphs I"
+        },
+        {
+            "resource_course_title": "Advanced Data Structures",
+            "title": "Session 21: Dynamic Connectivity Lower Bound"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 16: Complexity: P, NP, NP-completeness, Reductions"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 20: Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 24: Cache-Oblivious Algorithms: Searching & Sorting"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 4: Divide & Conquer: van Emde Boas Trees"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 5: Amortization: Amortized Analysis"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 8: Randomization: Universal & Perfect Hashing"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 9: Augmentation: Range Trees"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 10: Dynamic Programming: Advanced DP"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 11: Dynamic Programming: All-Pairs Shortest Paths"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 13: Incremental Improvement: Max Flow, Min Cut"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 17: Complexity: Approximation Algorithms"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 18: Complexity: Fixed-Parameter Algorithms"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 19: Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 2: Divide & Conquer: Convex Hull, Median Finding"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 21: Cryptography: Hash Functions"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 22: Cryptography: Encryption"
+        },
+        {
+            "resource_course_title": "Design and Analysis of Algorithms",
+            "title": "Lecture 23: Cache-Oblivious Algorithms: Medians & Matrices"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "lec02_code.zip"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 1: Algorithmic Thinking, Peak Finding"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 10: Open Addressing, Cryptographic Hashing"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 11: Integer Arithmetic, Karatsuba Multiplication"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 13: Breadth-First Search (BFS)"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 16: Dijkstra"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 17: Bellman-Ford"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 2: Models of Computation, Document Distance"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 20: Dynamic Programming II: Text Justification, Blackjack"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 24: Topics in Algorithms Research"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 3: Insertion Sort, Merge Sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 5: Binary Search Trees, BST Sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 8: Hashing with Chaining"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 01: Algorithmic thinking, peak finding"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 02: Models of computation, Python cost model, document distance"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 2 Original: Models of computation, Python cost model, document distance"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 05: Binary search trees, BST sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 6 Original: AVL trees, AVL sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 07: Counting sort, radix sort, lower bounds for sorting and searching"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 7 Original: Counting sort, radix sort, lower bounds for sorting and searching"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 08: Hashing with chaining"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 8 Original: Hashing with chaining"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 09: Table doubling, Karp-Rabin"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 9 Original: Table doubling, Karp-Rabin"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 11: Integer arithmetic, Karatsuba multiplication"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 17: Bellman-Ford"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 18: Speeding up Dijkstra"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 19: Memoization, subproblems, guessing, bottom-up; Fibonacci, shortest paths"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 19 Original: Memoization, subproblems, guessing, bottom-up; Fibonacci, shortest paths"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 22: PPAD"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 8: Hamiltonicity"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 1: Overview"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 11: Inapproximability Examples"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 12: Gaps and PCP"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 14: ETH and Planar FPT"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 21: 3SUM and APSP Hardness"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 23: PPAD Reductions"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 3: 3-Partition II"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 4: SAT I"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 5: SAT Reductions"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 6: Circuit SAT"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 7: Planar SAT"
+        },
+        {
+            "resource_course_title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+            "title": "Lecture 9: Graph Problems"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 1: Introduction and Proofs"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 10: Graph Theory III"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 11: Relations, Partial Orders, and Scheduling"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 14: Divide and Conquer Recurrences"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 15: Linear Recurrences"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 18: Probability Introduction"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 19: Conditional Probability"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 21: Random Variables"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 22: Expectation I"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 23: Expectation II"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 24: Large Deviations"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 25: Random Walks"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 5: Number Theory II"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 6: Graph Theory and Coloring"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 7: Matching Problems"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 9: Communication Networks"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 12: Sums"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 13: Sums and Asymptotics"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 16: Counting Rules I"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 17: Counting Rules II"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 2: Induction"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 20: Independence"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 3: Strong Induction"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 4: Number Theory I"
+        },
+        {
+            "resource_course_title": "Mathematics for Computer Science",
+            "title": "Lecture 8: Graph Theory II: Minimum Spanning Trees"
+        },
+        {
+            "resource_course_title": "The Battlecode Programming Competition",
+            "title": "Lecture 1: Introduction to Battlecode"
+        },
+        {
+            "resource_course_title": "The Battlecode Programming Competition",
+            "title": "Lecture 2: Writing Your First Player"
+        },
+        {
+            "resource_course_title": "The Battlecode Programming Competition",
+            "title": "Lecture 3: Navigation"
+        },
+        {
+            "resource_course_title": "The Battlecode Programming Competition",
+            "title": "Lecture 4: Git Repository"
+        },
+        {
+            "resource_course_title": "The Battlecode Programming Competition",
+            "title": "Lecture 5: Swarms, Artillery, and Mines"
+        },
+        {
+            "resource_course_title": "The Battlecode Programming Competition",
+            "title": "Lecture 6: Numerical Strategy"
+        },
+        {
+            "resource_course_title": "The Battlecode Programming Competition",
+            "title": "Lecture 7: The Lost Lecture"
+        },
+        {
+            "resource_course_title": "The Battlecode Programming Competition",
+            "title": "Lecture 8: Lessons from the Sprint Tournament"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 20 Original: Parent pointers; text justification, perfect-information blackjack"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 21: String subproblems, psuedopolynomial time; parenthesization, edit distance, knapsack"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 21 Original: String subproblems, psuedopolynomial time; parenthesization, edit distance, knapsack"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 22: Two kinds of guessing; piano/guitar fingering, Tetris training, Super Mario Bros."
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 22 Original: Two kinds of guessing; piano/guitar fingering, Tetris training, Super Mario Bros."
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 23 Original: Computational complexity"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 24: Algorithms research topics"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 24 Original: Algorithms research topics"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "lec06_code.zip"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 12: Square Roots, Newton's Method"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 14: Depth-First Search (DFS), Topological Sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 15: Single-Source Shortest Paths Problem"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 18: Speeding up Dijkstra"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario Bros."
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 23: Computational Complexity"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 7: Counting Sort, Radix Sort, Lower Bounds for Sorting"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 9: Table Doubling, Karp-Rabin"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 03: Insertion sort, merge sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 04: Heaps and heap sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 06: AVL trees, AVL sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 10: Open addressing, cryptographic hashing"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 12: Square roots, Newton's method"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 13: Breadth-first search (BFS)"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 13 Original: Breadth-first search (BFS)"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 14: Depth-first search (DFS), topological sorting"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 14 Original: Depth-first search (DFS), topological sorting"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 15: Single-source shortest paths problem"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 16: Dijkstra"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 23: Computational complexity"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 4: Heaps and Heap Sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "Lecture 6: AVL Trees, AVL Sort"
+        },
+        {
+            "resource_course_title": "Introduction to Algorithms",
+            "title": "6.006 Lecture 20: Parent pointers; text justification, perfect-information blackjack"
+        },
+        {
+            "resource_course_title": "AI 101",
+            "title": "AI 101 with Brandon Leshchinskiy"
+        },
+        {
+            "resource_course_title": "Introduction to Electrical Engineering and Computer Science I",
+            "title": "Lecture 10: Discrete Probability and State Estimation"
+        },
+        {
+            "resource_course_title": "Introduction to Electrical Engineering and Computer Science I",
+            "title": "Lecture 3: Signals and Systems"
+        },
+        {
+            "resource_course_title": "Introduction to Electrical Engineering and Computer Science I",
+            "title": "Lecture 6: Designing Control Systems"
+        },
+        {
+            "resource_course_title": "Introduction to Electrical Engineering and Computer Science I",
+            "title": "Lecture 7: Circuits"
+        },
+        {
+            "resource_course_title": "Introduction to Electrical Engineering and Computer Science I",
+            "title": "Lecture 12: Search Algorithms"
+        },
+        {
+            "resource_course_title": "Introduction to Electrical Engineering and Computer Science I",
+            "title": "Lecture 13: Optimizing a Search"
+        },
+        {
+            "resource_course_title": "Introduction to Electrical Engineering and Computer Science I",
+            "title": "Lecture 1: Object-Oriented Programming"
+        },
+        {
+            "resource_course_title": "Introduction to Electrical Engineering and Computer Science I",
+            "title": "Lecture 8: Op-Amps"
+        },
+        {
+            "resource_course_title": "Introduction to Electrical Engineering and Computer Science I",
+            "title": "Lecture 9: Circuit Abstractions"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to R, Part I: Interface and Data Structures"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to R, Part II: Playing with the Data"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to R, Part IV: Loops and Functions"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to GIS, Part I: Key Concepts"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to GIS, Part II: Vectorial Maps, Raster Maps, and Time Series"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to GIS, Part III: Projection"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to GIS, Part IV: Stack, Brick, Crop, and Mask"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to GIS, Part V: Extract Information from Maps using Spatial Data Points"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to GIS, Part VI: Plotting Maps with ggplot2"
+        },
+        {
+            "resource_course_title": "Introduction to R and Geographic Information Systems (GIS)",
+            "title": "Introduction to R, Part III: Linear and Mixed Models in R"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 1: Signatures, Hashing, Hash Chains, e-cash, and Motivation"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 10: PoW Recap, Other Fork Types"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 12: Transaction Malleability and Segregated Witness"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 13: Payment Channels and Lightning Network"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 14: Lightning Network and Cross-chain Swaps"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 15: Discreet Log Contracts"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 16: MAST, Taproot, Graftroot"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 17: Anonymity, Coinjoin and Signature Aggregation"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 18: Confidential Transactions"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 2: Proof of Work and Mining"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 22: Alternative Consensus Mechanisms"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 23: New Directions in Crypto"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 24: zkLedger"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 3: Signatures"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 4: Transactions and the UTXO Model"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 5: Synchronization Process, Pruning"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 6: SPV and Wallet Types"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 7: OP_RETURN and Catena"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 8: Forks"
+        },
+        {
+            "resource_course_title": "Cryptocurrency Engineering and Design",
+            "title": "Lecture 11: Fees"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "6.231 Dynamic Programming and Stochastic Control, Complete Supplemental Notes"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "Approximate Dynamic Programming, Lecture 1"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "Approximate Dynamic Programming, Lecture 2"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "Approximate Dynamic Programming, Lecture 3"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "Approximate Dynamic Programming, Lecture 4"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "Approximate Dynamic Programming, Lecture 5"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "Approximate Dynamic Programming, Lecture 6"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "Monte Carlo Linear Algebra: A Review and Recent Results"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "6.231 Dynamic Programming and Stochastic Control, Supplemental Lecture 1"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "6.231 Dynamic Programming and Stochastic Control, Supplemental Lecture 2"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "6.231 Dynamic Programming and Stochastic Control, Supplemental Lecture 3"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "6.231 Dynamic Programming and Stochastic Control, Supplemental Lecture 4"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "6.231 Dynamic Programming and Stochastic Control, Supplemental Lecture 5"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "6.231 Dynamic Programming and Stochastic Control, Supplemental Lecture 6"
+        },
+        {
+            "resource_course_title": "Dynamic Programming and Stochastic Control",
+            "title": "Approximate Dynamic Programming, Lecture Notes"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 1: Introduction"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 10: Trajectory Stabilization and Iterative Linear Quadratic Regulator"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 11: Walking"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 12: Walking (cont.)"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 13: Running"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 14: Feasible Motion Planning"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 16: Introducing Stochastic Optimal Control"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 17: Stochastic Gradient Descent"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 18: Stochastic Gradient Descent 2"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 19: Temporal Difference Learning"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 2: The Simple Pendulum"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 20: Temporal Difference Learning with Function Approximation"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 21: Policy Improvement"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 22: Actor-critic Methods"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 23: Case Studies in Computational Underactuated Control"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 3: Optimal Control of the Double Integrator"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 4: Optimal Control of the Double Integrator (cont.)"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 5: Numerical Optimal Control (Dynamic Programming)"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 6: Acrobot and Cart-pole"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 7: Swing-up Control of Acrobot and Cart-pole Systems"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 8: Dynamic Programming (DP) and Policy Search"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 9: Trajectory Optimization"
+        },
+        {
+            "resource_course_title": "Underactuated Robotics",
+            "title": "Lecture 15: Global Policies from Local Policies"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 5: CF Pumping Lemma, Turing Machines"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 1: Introduction, Finite Automata, Regular Expressions"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 10: Computation History Method"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 12: Time Complexity"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 15: NP-Completeness"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 16: Cook-Levin Theorem"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 17: Space Complexity, PSPACE, Savitch's Theorem"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 18: PSPACE-Completeness"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 19: Games, Generalized Geography"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 20: L and NL, NL = coNL"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 21: Hierarchy Theorems"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 22: Provably Intractable Problems, Oracles"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 23: Probabilistic Computation, BPP"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 24: Probabilistic Computation (cont.)"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 25: Interactive Proof Systems, IP"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 26: coNP ⊆ IP"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 8: Undecidability"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 9: Reducibility"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 2: Nondeterminism, Closure Properties, Regular Expressions → Finite Automata"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 4: Pushdown Automata, CFG ↔ PDA"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 3: Regular Pumping Lemma, Finite Automata → Regular Expressions, CFGs"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 6: TM Variants, Church-Turing Thesis"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 7: Decision Problems for Automata and Grammars"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 11: Recursion Theorem and Logic"
+        },
+        {
+            "resource_course_title": "Theory of Computation",
+            "title": "Lecture 14: P and NP, SAT, Poly-Time Reducibility"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "10A: Compilation"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "1B: Procedures and Processes; Substitution Model"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "2A: Higher-order Procedures"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "2B: Compound Data"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "3A: Henderson Escher Example"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "3B: Symbolic Differentiation; Quotation"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "4A: Pattern Matching and Rule-based Substitution"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "4B: Generic Operators"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "5B: Computational Objects"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "6A: Streams, Part 1"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "7B: Metacircular Evaluator, Part 2"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "9A: Register Machines"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "9B: Explicit-control Evaluator"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "10B: Storage Allocation and Garbage Collection"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "1A: Overview and Introduction to Lisp"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "5A: Assignment, State, and Side-effects"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "6B: Streams, Part 2"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "7A: Metacircular Evaluator, Part 1"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "8A: Logic Programming, Part 1"
+        },
+        {
+            "resource_course_title": "Structure and Interpretation of Computer Programs",
+            "title": "8B: Logic Programming, Part 2"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 1: Introduction and Scope"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 10: Introduction to Learning, Nearest Neighbors"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 11: Learning: Identification Trees, Disorder"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 12A: Neural Nets"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 12B: Deep Neural Nets"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 13: Learning: Genetic Algorithms"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 14: Learning: Sparse Spaces, Phonology"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 15: Learning: Near Misses, Felicity Conditions"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 16: Learning: Support Vector Machines"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 17: Learning: Boosting"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 18: Representations: Classes, Trajectories, Transitions"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 2: Reasoning: Goal Trees and Problem Solving"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 23: Model Merging, Cross-Modal Coupling, Course Summary"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 4: Search: Depth-First, Hill Climbing, Beam"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 5: Search: Optimal, Branch and Bound, A*"
+        },
+        {
+            "resource_course_title": "Artificial Intelligence",
+            "title": "Lecture 8: Constraints: Search, Domain Reduction"
+        }
+    ],
     "Physics": [
         {
             "resource_course_title": "Atomistic Computer Modeling of Materials (SMA 5107)",
